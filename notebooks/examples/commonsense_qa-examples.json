@@ -6,13 +6,7 @@
         "ref_id": "",
         "question": "James couldn't get comfortable.  There was too much dirt.  He needed to clean out what?",
         "type": "multiplechoice",
-        "choices": [
-          "ground",
-          "subway",
-          "bank",
-          "bed",
-          "street"
-        ],
+        "choices": ["ground", "subway", "bank", "bed", "street"],
         "context": "",
         "cot": [
           "Bed is a piece of furniture for sleep or rest, typically a framework with a mattress.",
@@ -24,9 +18,7 @@
           "Bank is not a private property that could be needed for james to clean up.",
           "Cleaning of streets is a responsibility of the administrative body of a city or a town and not for james to worry about."
         ],
-        "answer": [
-          "bed"
-        ],
+        "answer": ["bed"],
         "generated_cot": [
           {
             "id": "887",
@@ -82,13 +74,7 @@
         "ref_id": "",
         "question": "She asked her little boy why, he replied that he didn't know and it was just what?",
         "type": "multiplechoice",
-        "choices": [
-          "case",
-          "reason",
-          "how",
-          "because",
-          "answer"
-        ],
+        "choices": ["case", "reason", "how", "because", "answer"],
         "context": "",
         "cot": [
           "Reply of 'why' should be 'because of'.",
@@ -98,9 +84,7 @@
           "How is not a reply of why.",
           "Answer is not a correct option."
         ],
-        "answer": [
-          "because"
-        ],
+        "answer": ["because"],
         "generated_cot": [
           {
             "id": "228",
@@ -168,9 +152,7 @@
           "The purpose of all farmers is producing food and food is produced by farmers to supply to people.not all the farmers raise cattle or grow corn.",
           "Farm land cannot be the purpose of farming but its basic requirement of farmer.not all the farmers requires to drive tractors"
         ],
-        "answer": [
-          "supply food"
-        ],
+        "answer": ["supply food"],
         "generated_cot": [
           {
             "id": "642",
@@ -240,9 +222,7 @@
           "A burger without animal substances like their flesh can be put in the good place mouth.",
           "All the options are not good places to put a hamburger in."
         ],
-        "answer": [
-          "mouth"
-        ],
+        "answer": ["mouth"],
         "generated_cot": [
           {
             "id": "241",
@@ -314,9 +294,7 @@
           "Two wheel transportation machine might not be at michigan.",
           "Train station is not a place where you can buy a two wheel transportation machine."
         ],
-        "answer": [
-          "bicycle shop"
-        ],
+        "answer": ["bicycle shop"],
         "generated_cot": [
           {
             "id": "517",
@@ -385,9 +363,7 @@
           "When one likes playing, they feel happy in it.",
           "All the other options are not related to what doing what they likes makes them hence are incorrect."
         ],
-        "answer": [
-          "feeling happy"
-        ],
+        "answer": ["feeling happy"],
         "generated_cot": [
           {
             "id": "831",
@@ -457,9 +433,7 @@
           "At cape canaveral, nasa, and battleship are related to space programme or a warship whereas here the term launch platform is not related to space programs but to the circus stage platform.",
           "Ocean don’t have launch platforms and has nothing to do with circus stage launch platform."
         ],
-        "answer": [
-          "trapeze"
-        ],
+        "answer": ["trapeze"],
         "generated_cot": [
           {
             "id": "826",
@@ -527,9 +501,7 @@
           "Fort wayne is a city in northeastern indiana so if you’re outside fort wayne, you are in indiana.",
           "Fort wayne is not in the places from all the other options."
         ],
-        "answer": [
-          "indiana"
-        ],
+        "answer": ["indiana"],
         "generated_cot": [
           {
             "id": "792",
@@ -598,9 +570,7 @@
           "Prisoners need to be controlled so that they don't try to escape prison so the guard is here for the prisoner.",
           "A guard does not attack or intimidate and might not always be there for station or unprotected."
         ],
-        "answer": [
-          "prisoner"
-        ],
+        "answer": ["prisoner"],
         "generated_cot": [
           {
             "id": "280",
@@ -668,9 +638,7 @@
           "Intruments are genrally made of metal as it makes them stiff.",
           "All the other options are not things nescessarily made of metal."
         ],
-        "answer": [
-          "instruments"
-        ],
+        "answer": ["instruments"],
         "generated_cot": [
           {
             "id": "233",
@@ -726,13 +694,7 @@
         "ref_id": "",
         "question": "Sally was bored because she didn't like the junk that was on what?",
         "type": "multiplechoice",
-        "choices": [
-          "drawer",
-          "garage",
-          "caddy",
-          "bed",
-          "television"
-        ],
+        "choices": ["drawer", "garage", "caddy", "bed", "television"],
         "context": "",
         "cot": [
           "Television is a device with a screen for receiving television signals.",
@@ -742,9 +704,7 @@
           "Garage is a building for housing a motor vehicle or vehicles.",
           "Garage is not for keeping junks and sally hasn’t dislike for the junk here."
         ],
-        "answer": [
-          "television"
-        ],
+        "answer": ["television"],
         "generated_cot": [
           {
             "id": "143",
@@ -816,9 +776,7 @@
           "He communicated by more than just giving a basic response.",
           "Sage can be bad at learning even if he loves communicating."
         ],
-        "answer": [
-          "exchanging ideas"
-        ],
+        "answer": ["exchanging ideas"],
         "generated_cot": [
           {
             "id": "855",
@@ -887,9 +845,7 @@
           "Restaurants have carpets while a chair and bowling alley do not.",
           "Restaurant can be a business unlike a bedroom."
         ],
-        "answer": [
-          "restaurant"
-        ],
+        "answer": ["restaurant"],
         "generated_cot": [
           {
             "id": "29",
@@ -962,9 +918,7 @@
           "Now if you try to eat using a radio you can’t eat cause nobody can eat using radio.",
           "Watching tv may divert your attention which may lead to prick by knitting needle and result in pain and bleeding."
         ],
-        "answer": [
-          "listen to music"
-        ],
+        "answer": ["listen to music"],
         "generated_cot": [
           {
             "id": "87",
@@ -1020,22 +974,14 @@
         "ref_id": "",
         "question": "If I'm playing ball, I'm mostly trying to do what?",
         "type": "multiplechoice",
-        "choices": [
-          "losing",
-          "competition",
-          "having fun",
-          "win",
-          "injury"
-        ],
+        "choices": ["losing", "competition", "having fun", "win", "injury"],
         "context": "",
         "cot": [
           "Playing ball is playing a game.",
           "A person plays game when he wants to have fun.",
           "All the other options are not why a person will play game of ball hence are not fesiable."
         ],
-        "answer": [
-          "having fun"
-        ],
+        "answer": ["having fun"],
         "generated_cot": [
           {
             "id": "745",
@@ -1091,22 +1037,14 @@
         "ref_id": "",
         "question": "Where are you likely to set papers while working on them?",
         "type": "multiplechoice",
-        "choices": [
-          "table",
-          "meeting",
-          "drawer",
-          "toilet",
-          "garage"
-        ],
+        "choices": ["table", "meeting", "drawer", "toilet", "garage"],
         "context": "",
         "cot": [
           "A table is a place where people work on papers.",
           "They can while working set them as the table provides flat surface for right adjustment.",
           "All the other options are incorrect as they are either not a place where people work or do not have space for setting papers."
         ],
-        "answer": [
-          "table"
-        ],
+        "answer": ["table"],
         "generated_cot": [
           {
             "id": "668",
@@ -1174,9 +1112,7 @@
           "Cars help in moving people while turning right and getting girls do not.",
           "Moving people connects them from one place to another unlike costing money or slowing down."
         ],
-        "answer": [
-          "move people"
-        ],
+        "answer": ["move people"],
         "generated_cot": [
           {
             "id": "321",
@@ -1245,9 +1181,7 @@
           "Houses in the woods cannot have neighbors unlike houses in the neighborhood or in the suburbs.",
           "Woods are covered with trees while housing estate and mars are not covered with trees."
         ],
-        "answer": [
-          "woods"
-        ],
+        "answer": ["woods"],
         "generated_cot": [
           {
             "id": "884",
@@ -1319,9 +1253,7 @@
           "Encouragement is totally weird as no society or mass encourages the killing.",
           "Dies is not what would you be likely to receive, as the person is killing and the victim dies."
         ],
-        "answer": [
-          "prison sentence"
-        ],
+        "answer": ["prison sentence"],
         "generated_cot": [
           {
             "id": "1012",
@@ -1392,9 +1324,7 @@
           "Unexpected costs cant be spend frivilously.",
           "Travelling dont always means to fly in airplane."
         ],
-        "answer": [
-          "have money"
-        ],
+        "answer": ["have money"],
         "generated_cot": [
           {
             "id": "38",
@@ -1464,9 +1394,7 @@
           "Efficiency or tiredness or stress cant occur when kids scream.",
           "Insanity is not caused by running errands."
         ],
-        "answer": [
-          "aggravation"
-        ],
+        "answer": ["aggravation"],
         "generated_cot": [
           {
             "id": "960",
@@ -1538,9 +1466,7 @@
           "Herpes is a contagious disease but spreads skin to skin means any one of the partners should be infected by herpesvirus otherwise there is no fear of getting herpes.",
           "Excitement can be killed by too long kisses resulting in breathing problems and arousal is a state of excitement created by kissing and it is not what happens due to too long kisses."
         ],
-        "answer": [
-          "shortness of breath"
-        ],
+        "answer": ["shortness of breath"],
         "generated_cot": [
           {
             "id": "302",
@@ -1609,9 +1535,7 @@
           "Sanitation helps in being healthy unlike feminism and buttons to fall off.",
           "Sanitatino is a practice while wrinkles are not."
         ],
-        "answer": [
-          "sanitation"
-        ],
+        "answer": ["sanitation"],
         "generated_cot": [
           {
             "id": "218",
@@ -1682,9 +1606,7 @@
           "Falling down is not place where variety of flats can be.",
           "Town can have varity of flats but city is more appropriate here as generally city is larger than town."
         ],
-        "answer": [
-          "city"
-        ],
+        "answer": ["city"],
         "generated_cot": [
           {
             "id": "988",
@@ -1740,13 +1662,7 @@
         "ref_id": "",
         "question": "If i were to spit a lot without noticing i may have extra what?",
         "type": "multiplechoice",
-        "choices": [
-          "phlegm",
-          "saliva nd mouth",
-          "disease",
-          "germs",
-          "spittle"
-        ],
+        "choices": ["phlegm", "saliva nd mouth", "disease", "germs", "spittle"],
         "context": "",
         "cot": [
           "A person has to spit saliva in mouth.",
@@ -1756,9 +1672,7 @@
           "Spittle dont fits here.",
           "If a person has extra germs, he might not spit a lot."
         ],
-        "answer": [
-          "saliva nd mouth"
-        ],
+        "answer": ["saliva nd mouth"],
         "generated_cot": [
           {
             "id": "842",
@@ -1814,22 +1728,14 @@
         "ref_id": "",
         "question": "From where does a snowflake form?",
         "type": "multiplechoice",
-        "choices": [
-          "cloud",
-          "snow storm",
-          "billow",
-          "air",
-          "snowstorm"
-        ],
+        "choices": ["cloud", "snow storm", "billow", "air", "snowstorm"],
         "context": "",
         "cot": [
           "A snowflake is formed from the cloud.",
           "Snowflakes are not formed from snow storm.",
           "A snowflake is not formed at the billow or air."
         ],
-        "answer": [
-          "cloud"
-        ],
+        "answer": ["cloud"],
         "generated_cot": [
           {
             "id": "15",
@@ -1885,13 +1791,7 @@
         "ref_id": "",
         "question": "Where would stones not be arranged in a path?",
         "type": "multiplechoice",
-        "choices": [
-          "quarries",
-          "field",
-          "park",
-          "bridge",
-          "made from rocks"
-        ],
+        "choices": ["quarries", "field", "park", "bridge", "made from rocks"],
         "context": "",
         "cot": [
           "In field, stones are not arranged.",
@@ -1901,9 +1801,7 @@
           "Bridge contains a path.",
           "Made from rocks is not a place."
         ],
-        "answer": [
-          "field"
-        ],
+        "answer": ["field"],
         "generated_cot": [
           {
             "id": "508",
@@ -1973,9 +1871,7 @@
           "Rest is not related with sleep.",
           "If you aren't well then you cant make bread or enjoy film on a rainy day."
         ],
-        "answer": [
-          "stay in bed"
-        ],
+        "answer": ["stay in bed"],
         "generated_cot": [
           {
             "id": "115",
@@ -2046,9 +1942,7 @@
           "At living room, teacher dont play the upright piano.",
           "At music store, teacher dont teach music"
         ],
-        "answer": [
-          "music room"
-        ],
+        "answer": ["music room"],
         "generated_cot": [
           {
             "id": "450",
@@ -2104,13 +1998,7 @@
         "ref_id": "",
         "question": "The man acted ridiculous at the funeral, what attitude should he have taken?",
         "type": "multiplechoice",
-        "choices": [
-          "straightforward",
-          "serious",
-          "solemn",
-          "somber",
-          "funny"
-        ],
+        "choices": ["straightforward", "serious", "solemn", "somber", "funny"],
         "context": "",
         "cot": [
           "Funerals are solemn.",
@@ -2119,9 +2007,7 @@
           "You may not display somber at funeral, that is fine.",
           "You cannot show funny attitude at a funeral, that is not acceptable at all."
         ],
-        "answer": [
-          "solemn"
-        ],
+        "answer": ["solemn"],
         "generated_cot": [
           {
             "id": "200",

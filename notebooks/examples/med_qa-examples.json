@@ -15,9 +15,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Type II pneumocytes"
-        ],
+        "answer": ["Type II pneumocytes"],
         "generated_cot": [
           {
             "id": "788_0",
@@ -151,9 +149,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Cholecystitis"
-        ],
+        "answer": ["Cholecystitis"],
         "generated_cot": [
           {
             "id": "861_0",
@@ -287,9 +283,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Acral lentiginous"
-        ],
+        "answer": ["Acral lentiginous"],
         "generated_cot": [
           {
             "id": "82_0",
@@ -423,9 +417,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Patent foramen ovale"
-        ],
+        "answer": ["Patent foramen ovale"],
         "generated_cot": [
           {
             "id": "530_0",
@@ -559,9 +551,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Cutaneous xanthomas"
-        ],
+        "answer": ["Cutaneous xanthomas"],
         "generated_cot": [
           {
             "id": "1047_0",
@@ -695,9 +685,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Meconium aspiration"
-        ],
+        "answer": ["Meconium aspiration"],
         "generated_cot": [
           {
             "id": "995_0",
@@ -831,9 +819,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Moxifloxacin and admission to the medical floor"
-        ],
+        "answer": ["Moxifloxacin and admission to the medical floor"],
         "generated_cot": [
           {
             "id": "829_0",
@@ -967,9 +953,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Dog bite"
-        ],
+        "answer": ["Dog bite"],
         "generated_cot": [
           {
             "id": "621_0",
@@ -1103,9 +1087,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Oral mifepristone + misoprostol"
-        ],
+        "answer": ["Oral mifepristone + misoprostol"],
         "generated_cot": [
           {
             "id": "976_0",
@@ -1239,9 +1221,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Metabolic alkalosis"
-        ],
+        "answer": ["Metabolic alkalosis"],
         "generated_cot": [
           {
             "id": "733_0",
@@ -1375,9 +1355,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Is transmitted by air conditioning"
-        ],
+        "answer": ["Is transmitted by air conditioning"],
         "generated_cot": [
           {
             "id": "1194_0",
@@ -1511,9 +1489,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Carotid baroreceptor firing activity"
-        ],
+        "answer": ["Carotid baroreceptor firing activity"],
         "generated_cot": [
           {
             "id": "447_0",
@@ -1647,9 +1623,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Physostigmine"
-        ],
+        "answer": ["Physostigmine"],
         "generated_cot": [
           {
             "id": "1033_0",
@@ -1919,9 +1893,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Increased peak tricuspid regurgitation"
-        ],
+        "answer": ["Increased peak tricuspid regurgitation"],
         "generated_cot": [
           {
             "id": "577_0",
@@ -2055,9 +2027,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Polymerase chain reaction"
-        ],
+        "answer": ["Polymerase chain reaction"],
         "generated_cot": [
           {
             "id": "286_0",
@@ -2191,9 +2161,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Conversion of aminolevulinic acid to porphobilinogen"
-        ],
+        "answer": ["Conversion of aminolevulinic acid to porphobilinogen"],
         "generated_cot": [
           {
             "id": "194_0",
@@ -2327,9 +2295,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Nifedipine"
-        ],
+        "answer": ["Nifedipine"],
         "generated_cot": [
           {
             "id": "1266_0",
@@ -2463,9 +2429,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Spinal stenosis"
-        ],
+        "answer": ["Spinal stenosis"],
         "generated_cot": [
           {
             "id": "513_0",
@@ -2599,9 +2563,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Reassure the mother"
-        ],
+        "answer": ["Reassure the mother"],
         "generated_cot": [
           {
             "id": "1090_0",
@@ -2871,9 +2833,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Superomedial quadrant of the right buttock"
-        ],
+        "answer": ["Superomedial quadrant of the right buttock"],
         "generated_cot": [
           {
             "id": "300_0",
@@ -3007,9 +2967,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Echocardiogram"
-        ],
+        "answer": ["Echocardiogram"],
         "generated_cot": [
           {
             "id": "635_0",
@@ -3143,9 +3101,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Inferior thyroid arteries"
-        ],
+        "answer": ["Inferior thyroid arteries"],
         "generated_cot": [
           {
             "id": "202_0",
@@ -3279,9 +3235,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Theca leutein cysts"
-        ],
+        "answer": ["Theca leutein cysts"],
         "generated_cot": [
           {
             "id": "151_0",
@@ -3415,9 +3369,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Platelet activating factor"
-        ],
+        "answer": ["Platelet activating factor"],
         "generated_cot": [
           {
             "id": "676_0",
@@ -3551,9 +3503,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "Creatine kinase (CK-MB)"
-        ],
+        "answer": ["Creatine kinase (CK-MB)"],
         "generated_cot": [
           {
             "id": "966_0",
@@ -3823,9 +3773,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "LOD Score > 3"
-        ],
+        "answer": ["LOD Score > 3"],
         "generated_cot": [
           {
             "id": "206_0",
@@ -3959,9 +3907,7 @@
         ],
         "context": "",
         "cot": [],
-        "answer": [
-          "IV fluids and monitoring"
-        ],
+        "answer": ["IV fluids and monitoring"],
         "generated_cot": [
           {
             "id": "724_0",
